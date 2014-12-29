@@ -1,21 +1,20 @@
-# Citizen Code of Conduct
+# EUGLUG Code of Conduct
 
 ## 1. Purpose
 
-A primary goal of COMMUNITY_NAME is to be inclusive to
-the largest number of contributors, with the most varied
-and diverse backgrounds possible. As such, we are committed
-to providing a friendly, safe and welcoming environment for
-all, regardless of gender, sexual orientation, ability,
-ethnicity, socioeconomic status, and religion (or lack
-thereof).
+A primary goal of Eugene Unix and GNU/Linux User Group is to be
+inclusive to the largest number of contributors, with the most varied
+and diverse backgrounds possible. As such, we are committed to
+providing a friendly, safe and welcoming environment for all,
+regardless of gender, sexual orientation, ability, ethnicity,
+socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all
 those who participate in our community, as well as the
 consequences for unacceptable behavior.
 
-We invite all those who participate in COMMUNITY_NAME to
-help us create safe and positive experiences for everyone.
+We invite all those who participate in Eugene Unix and GNU/Linux User
+Group to help us create safe and positive experiences for everyone.
 
 ## 2.‎ ‏Open [Source/Culture/Tech] Citizenship
 
@@ -77,7 +76,7 @@ without refund in the case of a paid event).
 
 If you are subject to or witness unacceptable behavior, or
 have any other concerns, please notify a community organizer
-as soon as possible. [CONTACT_INFO_HERE]
+as soon as possible. info@euglug.org
 
 Additionally, community organizers are available to help
 community members engage with local law enforcement or to
@@ -88,11 +87,11 @@ distress.
 
 ## 7.‎ ‏Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of
-violating this Code of Conduct, you should notify
-GOVERNING_BODY with a concise description of your grievance.
-Your grievance will be handled in accordance with our
-existing governing policies. [LINK_TO_POLICY]
+If you feel you have been falsely or unfairly accused of violating
+this Code of Conduct, you should notify [EUGLUG steering
+committee](http://euglug.org/steering.html) with a concise description of your
+grievance.  Your grievance will be handled in accordance with our
+existing governing policies. 
 
 [NOTE:‎ ‏Every organization's governing policies should dictate
 how you handle warnings and expulsions of community members.
@@ -110,9 +109,7 @@ to community business.
 
 ## 9.‎ ‏Contact info
 
-‎[‏YOUR CONTACT INFO HERE -- this should be a single
-person or a small team who can respond to issues
-directly]
+Larry Price or Jacob Riddle : ( first_name @ euglug . org )
 
 ## 10.‎ ‏License and attribution
 
